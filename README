@@ -1,0 +1,3 @@
+Danga::Socket is an event loop and event-driven async socket base class
+by Brad Fitzpatrick.  Redis is a key-value data store similar to memcached.
+This package is an event driven redis client.
